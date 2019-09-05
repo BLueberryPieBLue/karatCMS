@@ -23,3 +23,5 @@ python manage.py runserver
 ## 参考文献
 
 [http://docs.django-cms.org](http://docs.django-cms.org/en/latest/)
+
+[https://www.djangoproject.com/start/](https://www.djangoproject.com/start/)
