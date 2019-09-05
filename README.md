@@ -7,7 +7,7 @@ pip install django==2.0
 pip install djangocms-installer
 ```
 
-## 创建超级用户账户
+## 超级用户账户
 
 
 用户名：admin
